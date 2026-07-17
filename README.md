@@ -12,7 +12,7 @@ Me chamo Anne Silva Coelho, tenho 20 anos e sou natural do Amazonas. Concluí o 
   <a href="https://lattes.cnpq.br/4901487795705644">
     <img alt="Currículo Lattes" title="Acesse meu Currículo Lattes" src="https://custom-icon-badges.demolab.com/badge/Lattes-%232EA44F?style=for-the-badge&logo=file-text&logoColor=white&labelColor=1D6F34&v=7"/>
   </a>
-  <a href="mailto:annesilvac26@gmail.com">
+  <a href="annesilvac26@gmail.com">
     <img alt="Email" title="Entre em contato por e-mail" src="https://custom-icon-badges.demolab.com/badge/Email-%23FF0000?style=for-the-badge&logo=mail&logoColor=white&labelColor=C00000&v=7"/>
   </a>
   <a href="https://github.com/annesc7">
